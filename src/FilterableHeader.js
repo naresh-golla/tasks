@@ -58,7 +58,7 @@ class FilterableHeader extends Component {
                   <input
                     id="350"
                     checked={this.state.radioption === "radio1"}
-                    value="all"
+                    value=""
                     onChange={this.radioChangeHandler}
                     type="radio"
                     name="title"
